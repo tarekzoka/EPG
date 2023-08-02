@@ -1,0 +1,1 @@
+wget https://raw.githubusercontent.com/tarekzoka/EPG/main/EPGDAT.sh -O - | /bin/sh
