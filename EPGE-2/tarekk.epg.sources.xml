@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sources>
+<sourcecat sourcecatname="tarekk EPG">
+<source type="gen_xmltv" nocheck="1" channels="tarekk3.epg.channels.xml">
+<description>epgshare01-Arab</description>
+<url><![CDATA[http://raw.githubusercontent.com/epgshare01/share01/master/epg_ripper_AE1.xml.gz]]></url>
+</source>
+<source type="gen_xmltv" nocheck="1" channels="tarekk3.epg.channels.xml">
+<description>epgshare01-Bein-Sports-Movies</description>
+<url><![CDATA[http://raw.githubusercontent.com/epgshare01/share01/master/epg_ripper_BEIN1.xml.gz]]></url>
+</source>
+<source type="gen_xmltv" nocheck="1" channels="tarekk3.epg.channels.xml">
+<description>epgshare01-ar</description>
+<url><![CDATA[https://raw.githubusercontent.com/epgshare01/share01/master/epg_ripper_SA1.xml.gz]]></url>
+</source>
+<source type="gen_xmltv" nocheck="1" channels="tarekk4.epg.channels.xml">
+<description>jawwy</description>
+<url><![CDATA[/etc/epgimport/jawwytv.xml]]></url>
+</source>
+<source type="gen_xmltv" nocheck="1" channels="tarekk5.epg.channels.xml">
+<description>tarekk-ar-osn</description>
+<url><![CDATA[/etc/epgimport/ar_osn.xmltv]]></url>
+</source>
+<source type="gen_xmltv" nocheck="1" channels="tarekk5.epg.channels.xml">
+<description>tarekk-ar-osn2</description>
+<url><![CDATA[/etc/epgimport/ar_osn2.xmltv]]></url>
+</source>
+<source type="gen_xmltv" nocheck="1" channels="tarekk5.epg.channels.xml">
+<description>tarekk-ar-osn3</description>
+<url><![CDATA[/etc/epgimport/ar_osn3.xmltv]]></url>
+</source>
+<source type="gen_xmltv" nocheck="1" channels="tarekk5.epg.channels.xml">
+<description>tarekk-ar-osn4</description>
+<url><![CDATA[/etc/epgimport/ar_osn4.xmltv]]></url>
+</source>
+<source type="gen_xmltv" nocheck="1" channels="tarekk5.epg.channels.xml">
+<description>tarekk-ar-osn5</description>
+<url><![CDATA[/etc/epgimport/ar_osn5.xmltv]]></url>
+</source>
+<source type="gen_xmltv" nocheck="1" channels="tarekk5.epg.channels.xml">
+<description>tarekk-ar-arab</description>
+<url><![CDATA[/etc/epgimport/ar_arab.xmltv]]></url>
+</source>
+<source type="gen_xmltv" nocheck="1" channels="tarekk5.epg.channels.xml">
+<description>tarekk-ar-elcinema</description>
+<url><![CDATA[/etc/epgimport/ar_el_cinema.xmltv]]></url>
+</source>
+<source type="gen_xmltv" nocheck="1" channels="tarekk5.epg.channels.xml">
+<description>tarekk-ar-bein</description>
+<url><![CDATA[/etc/epgimport/ar_bein.xmltv]]></url>
+</source>
+<source type="gen_xmltv" nocheck="1" channels="tarekk2.epg.channels.xml">
+<description>tarekk-Arab2</description>
+<url><![CDATA[/etc/epgimport/tarekk.xml]]></url>
+</source>
+<source type="gen_xmltv" nocheck="1" channels="tarekk.epg.channels.xml">
+<description>tarekk-bein</description>
+<url><![CDATA[/etc/epgimport/tarekk1.xml]]></url>
+</source>
+<source type="gen_xmltv" nocheck="1" channels="tarekk6.epg.channels.xml">
+<description>Inedispirou-Arab</description>
+<url><![CDATA[http://www.inedispirou.com/media/epg/guide_mena-a.gz]]></url>
+</source>
+</sourcecat>
+</sources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

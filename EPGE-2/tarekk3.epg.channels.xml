@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<channels>
+<channel id="MBC1.ae">1:0:1:4:3b:800:dc00000:0:0:0:</channel>
+<channel id="MBC2.ae">1:0:1:1:9c68:77e:dca0000:0:0:0:</channel>
+<channel id="MBC4.ae">1:0:1:5:3b:800:dc00000:0:0:0:</channel>
+<channel id="MBC.Action.ae">1:0:1:a:3b:800:dc00000:0:0:0:</channel>
+<channel id="MBC.cinq.ae">1:0:19:1199:2d:800:dca0000:0:0:0:</channel>
+<channel id="MBC.Bollywood.ae">1:0:1:8:3b:800:dc00000:0:0:0:</channel>
+<channel id="MBC.Drama.ae">1:0:1:6:3b:800:dc00000:0:0:0:</channel>
+<channel id="MBC.Iraq.ae">1:0:1:85e:15:800:dca0000:0:0:0:</channel>
+<channel id="MBC.Egypt.2.ae">1:0:1:452:b:800:dca0000:0:0:0:</channel>
+<channel id="MBC.Egypt.ae">1:0:1:14:3b:800:dc00000:0:0:0:</channel>
+	<channel id="beIN_SPORTS1_DIGITAL_EN.bein">1:0:19:7D3:64:77E:DC00000:0:0:0:</channel>
+	<channel id="beIN_SPORTS1_PREMIUM_Digital_EN.bein">1:0:19:7D1:64:77E:DC00000:0:0:0:</channel>
+	<channel id="beIN_SPORTS2_DIGITAL_EN.bein">1:0:19:836:C8:77E:DC00000:0:0:0:</channel>
+	<channel id="beIN_SPORTS2_PREMIUM_Digital_EN.bein">1:0:19:7D2:64:77E:DC00000:0:0:0:</channel>
+	<channel id="beIN_SPORTS3_DIGITAL_EN.bein">1:0:19:7D4:64:77E:DC00000:0:0:0:</channel>
+	<channel id="beIN_SPORTS3_PREMIUM_Digital_EN.bein">1:0:19:838:C8:77E:DC00000:0:0:0:</channel>
+	<channel id="beIN_SPORTS4_DIGITAL_EN.bein">1:0:19:835:C8:77E:DC00000:0:0:0:</channel>
+	<channel id="beIN_SPORTS5_DIGITAL_EN.bein">1:0:19:839:C8:77E:DC00000:0:0:0:</channel>
+	<channel id="beIN_SPORTS6_DIGITAL_EN.bein">1:0:19:837:C8:77E:DC00000:0:0:0:</channel>
+	<channel id="beIN_SPORTS7_DIGITAL_EN.bein">1:0:19:899:12C:77E:DC00000:0:0:0:</channel>
+<channel id="AljazeeraDocumentary.Arabic.bn">1:0:19:1f8:eac4:77e:dc00000:0:0:0:</channel>
+<channel id="AL.Hurra.HD.sa">1:0:1:1b9:10:6e:dca0000:0:0:0:</channel>
+<channel id="AL.Hurra.Iraq.HD.sa">1:0:1:1bb:10:6e:dca0000:0:0:0:</channel>
+<channel id="ART .Aflam .1.sa ARB">1:0:1:2c2:7:800:dca0000:0:0:0:</channel>
+<channel id="ART. Aflam .2.sa ARB">1:0:1:2c4:7:800:dca0000:0:0:0:</channel>
+<channel id="ART .Cinema.sa ARB">1:0:1:2c5:7:800:dca0000:0:0:0:</channel>
+<channel id="Hekayat .sa">1:0:1:2bf:7:800:dca0000:0:0:0:</channel>
+<channel id="Hekayat .2.sa">1:0:1:2c1:7:800:dca0000:0:0:0:</channel>
+<channel id="BBC.Arabic.sa ARB">1:0:1:c83:20:800:dca0000:0:0:0:</channel>
+<channel id="Beity.tv.sa TV">1:0:1:32:1:ffff:DCA2a3f:0:0:0:</channel> 
+	<channel id="Bahrain.TV.sa">1:0:19:1B76:2BC:5000:DC00000:0:0:0:</channel>
+	<channel id="OSN.Ya.Hala.Al.Oula.sa">1:0:19:119D:2D:800:DCA0000:0:0:0:</channel>
+	<channel id="OSN.Ya.Hala.sa">1:0:19:135:3:800:DCA0000:0:0:0:</channel>
+	<channel id="OSN.Yahala.Cinema.sa">1:0:19:132:3:800:DCA0000:0:0:0:</channel>
+	<channel id="Al.Yawm.sa">1:0:1:A8D:1:2A:DC00000:0:0:0:</channel>
+	<channel id="Cinema.1.sa">1:0:1:A8F:1:2A:DC00000:0:0:0:</channel>
+	<channel id="Cinema.2.sa">1:0:1:A90:1:2A:DC00000:0:0:0:</channel>
+	<channel id="Moslsalat.sa">1:0:19:A92:1:2A:DC00000:0:0:0:</channel>
+	<channel id="Moslsalat.2.sa">1:0:19:A91:1:2A:DC00000:0:0:0:</channel>
+	<channel id="Fann.sa">1:0:1:A93:1:2A:DC00000:0:0:0:</channel>
+	<channel id="OSN.Movies.sa">1:0:19:1197:2D:800:DCA0000:0:0:0:</channel>
+	<channel id="OSN.Action.sa">1:0:19:12E:3:800:DCA0000:0:0:0:</channel>
+	<channel id="Al.Safwa.sa">1:0:1:A8E:1:2A:DC00000:0:0:0:</channel>
+	<channel id="Discovery.sa">1:0:19:1621:236:800:DCA0000:0:0:0:</channel>
+	<channel id="OSN.Movies.First.2.sa">1:0:19:1625:236:800:DCA0000:0:0:0:</channel>
+	<channel id="OSN.Movies.First.sa">1:0:19:12D:3:800:DCA0000:0:0:0:</channel>
+	<channel id="OSN.Series.First.sa">1:0:19:130:3:800:DCA0000:0:0:0:</channel>
+	<channel id="E.HD.sa">1:0:19:131:3:800:DCA0000:0:0:0:</channel>
+	<channel id="OSN.Series.sa">1:0:19:3eb:a:800:DCa0000:0:0:0:</channel>
+	<channel id="osn.enigma.sa">1:0:19:1198:2D:800:DCA0000:0:0:0:</channel>
+	<channel id="OSN.Comedy.sa">1:0:19:119C:2D:800:DCA0000:0:0:0:</channel>
+	<channel id="OSN.Kids.sa">1:0:19:119A:2D:800:DCA0000:0:0:0:</channel>
+	<channel id="Star.Movies.HD.sa">1:0:19:3EF:A:800:DCA0000:0:0:0:</channel>
+	<channel id="Star.World.HD.sa">1:0:19:3F0:A:800:DCA0000:0:0:0:</channel>
+	<channel id="Discovery.Channel.HD.sa">1:0:19:1621:236:800:DCA0000:0:0:0:</channel>
+	<channel id="Discovery.ID.sa">1:0:19:1624:236:800:DCA0000:0:0:0:</channel>
+	<channel id="Discovery.Science.HD.sa">1:0:19:3F1:A:800:DCA0000:0:0:0:</channel>
+	<channel id="Disney.Channel.HD.sa">1:0:19:119B:2D:800:DCA0000:0:0:0:</channel>
+	<channel id="Disney.Junior.sa">1:0:1:DD:2:800:DCA0000:0:0:0:</channel>
+	<channel id="E!.HD.sa">1:0:19:131:3:800:DCA0000:0:0:0:</channel>
+	<channel id="France.24.Arabic.sa">1:0:1:C86:20:800:DCA0000:0:0:0:</channel>
+	<channel id="H2.HD.sa">1:0:19:1623:236:800:DCA0000:0:0:0:</channel>
+	<channel id="History.HD.sa">1:0:19:161D:236:800:DCA0000:0:0:0:</channel>
+	<channel id="Nat.Geo.HD.sa">1:0:19:3EE:A:800:DCA0000:0:0:0:</channel>
+	<channel id="Nat.Geo.People.HD.sa">1:0:19:3ED:A:800:DCA0000:0:0:0:</channel>
+	<channel id="Nat.Geo.Wild.HD.sa">1:0:19:3EC:A:800:DCA0000:0:0:0:</channel>
+	<channel id="NickToons.HD.sa">1:0:19:3EA:A:800:DCA0000:0:0:0:</channel>
+	<channel id="Nick.Jr.sa">1:0:19:3E9:A:800:DCA0000:0:0:0:</channel>
+	<channel id="Nickelodeon.HD.sa">1:0:19:161F:236:800:DCA0000:0:0:0:</channel>
+	<channel id="OSN.Living.sa">1:0:19:1196:2D:800:DCA0000:0:0:0:</channel>
+	<channel id="OSN.Mezze.sa">1:0:19:1195:2D:800:DCA0000:0:0:0:</channel>
+	<channel id="OSN.Movies.Disney.sa">1:0:19:1622:236:800:DCA0000:0:0:0:</channel>
+<channel id="MTV.Live.HD.sa">1:0:19:1620:236:800:DCA0000:0:0:0:</channel>
+ <channel id="Music.Now.sa">1:0:1:A94:1:2A:DC00000:0:0:0:</channel>
+<channel id="VH1.sa">1:0:1:de:2:800:DCA0000:0:0:0:</channel>
+ <channel id="Rusia.Al.yawm.sa">1:0:1:636:ffdc:77e:DC00000:0:0:0:</channel>
+</channels>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
