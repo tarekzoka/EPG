@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<channels>
+	<channel id="OSNMoviesFirst.ae">1:0:19:12D:3:800:DCA0000:0:0:0</channel>
+	<channel id="OSNMoviesFirstPlus2.ae">1:0:19:1625:236:800:DCA0000:0:0:0</channel>
+	<channel id="OSNAction.ae">1:0:19:12E:3:800:DCA0000:0:0:0</channel>
+	<channel id="OSNMovies.ae">1:0:19:1197:2D:800:DCA0000:0:0:0</channel>
+	<channel id="OSNEnigma.ae">1:0:19:1198:2D:800:DCA0000:0:0:0</channel>
+	<channel id="OSNKids.ae">1:0:19:119A:2D:800:DCA0000:0:0:0</channel>
+	<channel id="StarMoviesMiddleEast.hk">1:0:19:3EF:A:800:DCA0000:0:0:0</channel>
+	<channel id="OSNYaHalaAlOula.ae">1:0:19:119D:2D:800:DCA0000:0:0:0</channel>
+	<channel id="OSNYaHala.ae">1:0:19:135:3:800:DCA0000:0:0:0</channel>
+	<channel id="OSNYaHalaCinema.ae">1:0:19:132:3:800:DCA0000:0:0:0</channel>
+	<channel id="Musalsalat.ae">1:0:19:A92:1:2A:DC00000:0:0:0</channel>
+	<channel id="MusalsalatPlus2.ae">1:0:19:A91:1:2A:DC00000:0:0:0</channel>
+	<channel id="AlYawm.ae">1:0:1:A8D:1:2A:DC00000:0:0:0</channel>
+	<channel id="AlSafwa.ae">1:0:1:A8E:1:2A:DC00000:0:0:0</channel>
+	<channel id="Fann.ae">1:0:1:A93:1:2A:DC00000:0:0:0</channel>
+	<channel id="Cinema1.ae">1:0:1:A8F:1:2A:DC00000:0:0:0</channel>
+	<channel id="Cinema2.ae">1:0:1:A90:1:2A:DC00000:0:0:0</channel>
+	<channel id="MusicNow.ae">1:0:1:A94:1:2A:DCA0000:0:0:0</channel>
+	<channel id="OSNSeriesFirst.ae">1:0:19:130:3:800:DCA0000:0:0:0</channel>
+	<channel id="OSNComedy.ae">1:0:19:119C:2D:800:DCA0000:0:0:0</channel>
+	<channel id="StarWorldMiddleEast.hk">1:0:19:3F0:A:800:DCA0000:0:0:0</channel>
+	<channel id="TLCArabia.us">1:0:19:134:3:800:DCA0000:0:0:0</channel>
+	<channel id="E!_HD">1:0:19:131:3:800:DCA0000:0:0:0</channel>
+	<channel id="OSNMezze.ae">1:0:19:1195:2D:800:DCA0000:0:0:0</channel>
+	<channel id="OSNLiving.ae">1:0:19:1196:2D:800:DCA0000:0:0:0</channel>
+	<channel id="MTVLive.us">1:0:19:1620:236:800:DCA0000:0:0:0</channel>
+	<channel id="DisneyChannelMiddleEast.us">1:0:19:119B:2D:800:DCA0000:0:0:0</channel>
+	<channel id="DisneyJuniorMiddleEast.us">1:0:1:DD:2:800:DC00000:0:0:0</channel>
+	<channel id="NickelodeonArabia.us">1:0:19:161F:236:800:DCA0000:0:0:0</channel>
+	<channel id="NickJrArabia.us">1:0:19:3E9:A:800:DCA0000:0:0:0</channel>
+	<channel id="OSNKidZone.ae">1:0:1:CE:2:800:DCA0000:0:0:0</channel>
+	<channel id="NickToonsArabia.us">1:0:19:3EA:A:800:DCA0000:0:0:0</channel>
+	<channel id="OSNNews.ae">1:0:19:12F:3:800:DCA0000:0:0:0</channel>
+	<channel id="SkyNewsArabia.uk">1:0:19:7DC:14:800:DCA0000:0:0:0</channel>
+	<channel id="CNBC_Europe">1:0:1:CF:2:800:DC00000:0:0:0</channel>
+	<channel id="VH1">1:0:1:DE:2:800:DCA0000:0:0:0</channel>
+	<channel id="DiscoveryChannelMiddleEastAfrica.us">1:0:19:1621:236:800:DCA0000:0:0:0</channel>
+	<channel id="DiscoveryScienceMiddleEast.us">1:0:19:3F1:A:800:DCA0000:0:0:0</channel>
+	<channel id="Discovery_IDX_HD">1:0:19:1624:236:800:DCA0000:0:0:0</channel>
+	<channel id="InvestigationDiscoveryEurope.us">1:0:1:D4:2:800:DC00000:0:0:0</channel>
+	<channel id="HistoryMiddleEast.us">1:0:19:161D:236:800:DCA0000:0:0:0</channel>
+	<channel id="History2MiddleEast.us">1:0:19:1623:236:800:DCA0000:0:0:0</channel>
+	<channel id="NationalGeographicMiddleEast.us">1:0:19:3EE:A:800:DCA0000:0:0:0</channel>
+	<channel id="NationalGeographicWildMiddleEast.us">1:0:19:3EC:A:800:DCA0000:0:0:0</channel>
+	<channel id="Nat_Geo_People_HD">1:0:19:3ED:A:800:DCA0000:0:0:0</channel>
+	<channel id="TFCMiddleEast.ph">1:0:1:D9:2:800:DC00000:0:0:0</channel>
+	<channel id="CinemaOneGlobal.ph">1:0:1:D8:2:800:DC00000:0:0:0</channel>
+	<channel id="TeleRadyoGlobal.ph">1:0:1:D7:2:800:DC00000:0:0:0</channel>
+	<channel id="MyxMiddleEast.ph">1:0:1:D1:2:800:DC00000:0:0:0</channel>
+	<channel id="AksyonTVInternational.ph">1:0:1:DC:2:800:DCA0000:0:0:0</channel>
+	<channel id="CineMo.ph">1:0:1:DF:2:800:DC00000:0:0:0</channel>
+	<channel id="OSNSeries.ae">1:0:19:3EB:A:800:DCA0000:0:0:0</channel>
+	<channel id="ANC.ph">1:0:1:E0:2:800:DC00000:0:0:0</channel>
+	<channel id="OSN_Mix">1:0:19:1199:2D:800:DCA0000:0:0:0</channel>
+	<channel id="NHK_World-Japan">1:0:1:517:D:800:DCA0000:0:0:0</channel>
+	<channel id="AlhurraTV.us">1:0:1:1B9:10:6E:DCA0000:0:0:0</channel>
+	<channel id="YAS_Sports_HD">1:0:1:7:32:64:DCA2C93:0:0:0</channel>
+	<channel id="AD_Sports_3_HD">1:0:1:12D:C9:800:DCA0000:0:0:0</channel>
+	<channel id="AD_Sports_4_HD">1:0:1:12E:C9:800:DCA0000:0:0:0</channel>
+	<channel id="OSNFamily.ae">1:0:19:1622:236:800:DCA0000:0:0:0</channel>
+	<channel id="ARTHekayat.sa">1:0:1:2BF:7:800:DCA0000:0:0:0:</channel>
+	<channel id="ARTAflam1.sa">1:0:1:2C2:7:800:DCA0000:0:0:0:</channel>
+	<channel id="ARTAflam2.sa">1:0:1:2C4:7:800:DCA0000:0:0:0:</channel>
+	<channel id="ARTCinema.sa">1:0:1:2C5:7:800:DCA0000:0:0:0:</channel>
+	<channel id="ARTHekayat2.sa">1:0:1:2C1:7:800:DCA0000:0:0:0:</channel>
+	<channel id="AlDafrahTV.ae">1:0:19:19D3:42:800:DCA0000:0:0:0:</channel>
+	<channel id="EMiddleEast.us">1:0:19:131:3:800:DCA0000:0:0:0:</channel>
+	<channel id="AlAanTV.ae">1:0:19:4:9c68:77e:DCA0000:0:0:0:</channel>
+	<channel id="AlMajlisTV.kw">1:0:19:453:7594:77e:DC00000:0:0:0:</channel>
+	<channel id="AlQurainTV.kw">1:0:19:454:7594:77e:DC00000:0:0:0:</channel>
+	<channel id="KTV1.kw">1:0:19:44d:7594:77e:DC00000:0:0:0:</channel>
+	<channel id="KTV2.kw">1:0:19:44d:7594:77e:DC00000:0:0:0:</channel>
+	<channel id="KTVArabe.kw">1:0:19:452:7594:77e:DC00000:0:0:0:</channel>
+	<channel id="KTVEthraa.kw">1:0:19:451:7594:77e:DC00000:0:0:0:</channel>
+	<channel id="KTVEthraa.kw">1:0:19:44f:7594:77e:DC00000:0:0:0:</channel>
+	<channel id="KTVSport.kw">1:0:19:44f:7594:77e:DC00000:0:0:0:</channel>
+	<channel id="KTVSportPlus.kw">1:0:19:450:7594:77e:DC00000:0:0:0:</channel>
+	<channel id="AlMamlakaTV.jo">1:0:19:345:8:800:DCa0000:0:0:0:</channel>
+	<channel id="AlWoustaTV.ae">1:0:19:5:208:2be:DC00000:0:0:0:</channel>
+	<channel id="B4UAflam.in">1:0:1:7:9c68:77e:DCa0000:0:0:0:</channel>
+	<channel id="B4UPlus.in">1:0:1:8:9c68:77e:DCa0000:0:0:0:</channel>
+	<channel id="BBCArabic.uk">1:0:1:c83:20:800:DCa0000:0:0:0:</channel>
+	<channel id="BBCWorldNewsMiddleEast.uk">1:0:1:20a:5:800:DCa0000:0:0:0:</channel>
+	<channel id="BabyTVEurope.uk">1:0:19:7d9:14:800:DCa0000:0:0:0:</channel>
+	<channel id="BahrainTV.bh">1:0:19:1b76:2bc:5000:DC00000:0:0:0:</channel>
+	<channel id="CGTN.cn">1:0:1:516:d:800:DCa0000:0:0:0:</channel>
+	<channel id="CGTNArabic.cn">1:0:1:51e:d:800:DCa0000:0:0:0:</channel>
+	<channel id="CNBCArabiya.us">1:0:19:1c95:49:800:DC00000:0:0:0:</channel>
+	<channel id="DubaiRacing.ae">1:0:19:19cc:42:800:DCa0000:0:0:0:</channel>
+	<channel id="DubaiRacing3.ae">1:0:1:126c:2f:800:DC00000:0:0:0:</channel>
+	<channel id="France24Arabic.fr">1:0:1:c86:20:800:DCa0000:0:0:0:</channel>
+
+
+</channels>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

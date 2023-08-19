@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+	<channel id="2M Monde">1:0:1:2:1:1:D8AD62:0:0:0:</channel>
+	<channel id="2M Monde">1:0:1:2:9D08:77E:DCA0000:0:0:0:</channel>
+	<channel id="2M Monde">1:0:1:67:1:1:1E2D87:0:0:0:</channel>
+	<channel id="2M Monde">1:0:1:66:1:1:1E2D87:0:0:0:</channel>
+	<channel id="2M Monde">1:0:1:7D5:22C4:13E:820000:0:0:0:</channel>
+	<channel id="2M Monde">1:0:1:10:146F:2BE:1040000:0:0:0:</channel>
+	<channel id="2M Monde">1:0:1:51C:D:800:DCA0000:0:0:0:</channel>
+	<channel id="AbuDhabiTV.ae">1:0:1:1:32:64:DCA0000:0:0:0:</channel>
+	<channel id="AbuDhabiTV.ae">1:0:1:AFA:1C:800:DCA0000:0:0:0:</channel>
+	<channel id="AbuDhabiTV.ae">1:0:1:1786:18:6E:DCA0000:0:0:0:</channel>
+	<channel id="AbuDhabiTV.ae">1:0:1:1:32:64:DCA0000:0:0:0:</channel>
+	<channel id="AbuDhabiDrama.ae">1:0:1:4:32:64:DCA0000:0:0:0:</channel>
+	<channel id="AbuDhabiDrama.ae">1:0:1:1789:18:6E:DCA0000:0:0:0:</channel>
+	<channel id="AbuDhabiDrama.ae">1:0:1:4:32:64:DCA0000:0:0:0:</channel>
+	<channel id="AbuDhabiDrama.ae">1:0:1:855:15:800:DCA0000:0:0:0:</channel>
+	<channel id="AD_Nat_Geo">1:0:1:8:32:64:DCA0000:0:0:0:</channel>
+	<channel id="AD_Nat_Geo">1:0:1:853:15:800:DCA0000:0:0:0:</channel>
+	<channel id="Al Aoula International">1:0:1:C8A:20:800:DCA0000:0:0:0:</channel>
+	<channel id="Al Aoula International">1:0:1:A:2:1:D80000:0:0:0:</channel>
+	<channel id="Al Aoula International">1:0:1:1:1:1:D8AD62:0:0:0:</channel>
+	<channel id="Al Aoula International">1:0:1:1:9D08:77E:DCA0000:0:0:0:</channel>
+	<channel id="Al Aoula International">1:0:1:3:2E18:B0:820000:0:0:0:</channel>
+	<channel id="Al Aoula International">1:0:1:1:320:2BE:FF0000:0:0:0:</channel>
+	<channel id="Aloula">1:0:1:1F5:5:800:DCA0000:0:0:0:</channel>
+	<channel id="Al_Aoula_Morocco">1:0:1:C8A:20:800:DCA0000:0:0:0:</channel>
+	<channel id="AlDafrahTV.ae">1:0:19:19D3:42:800:DCA0000:0:0:0:</channel>
+	<channel id="AlDafrahTV.ae">1:0:19:19D3:42:800:DCA0000:0:0:0:</channel>
+	<channel id="AlHayat.eg">1:0:19:C88:20:800:DCA0000:0:0:0:</channel>
+	<channel id="AlhayatDrama">1:0:1:EE4:26:800:DCA0000:0:0:0:</channel>
+	<channel id="AlhayatDrama">1:0:1:70F:12:800:DCA0000:0:0:0:</channel>
+	<channel id="Alhayat_Drama">1:0:1:70F:12:800:DCA0000:0:0:0:</channel>
+	<channel id="AlJadeed.lb">1:0:19:18:1:2BE:1040000:0:0:0:</channel>
+	<channel id="AlKaheraWalNas.eg">1:0:1:1EA:5:800:DCA0000:0:0:0:</channel>
+	<channel id="AlKaheraWalNas.eg">1:0:1:1EA:5:800:DCA0000:0:0:0:</channel>
+	<channel id="AlKaheraWalNas.eg">1:0:1:515:D:800:DCA0000:0:0:0:</channel>
+	<channel id="AlKaheraWalNas.eg">1:0:1:515:D:800:DCA0000:0:0:0:</channel>
+	<channel id="AlKaheraWalNas.eg">1:0:1:1905:40:800:DCA0000:0:0:0:</channel>
+	<channel id="AlNaharTV.eg">1:0:1:709:12:800:DCA0000:0:0:0:</channel>
+	<channel id="AlNaharDrama.eg">1:0:1:70A:12:800:DCA0000:0:0:0:</channel>
+	<channel id="AlNaharTV.eg">1:0:1:709:12:800:DCA0000:0:0:0:</channel>
+	<channel id="AlNaharDrama.eg">1:0:1:70A:12:800:DCA0000:0:0:0:</channel>
+	<channel id="Aloula">1:0:19:1F6:5:800:DCA0000:0:0:0:</channel>
+	<channel id="AlraiTV.kw">1:0:19:1A0E:2BC:5000:DCA0000:0:0:0:</channel>
+	<channel id="AlraiTV.kw">1:0:19:1A0E:2BC:5000:DC00000:0:0:0:</channel>
+	<channel id="AlRasheedTV.iq">1:0:1:4:9C7C:77E:DCA0000:0:0:0:</channel>
+	<channel id="AlSafwa.ae">1:0:1:A8E:1:2A:DC00000:0:0:0:</channel>
+	<channel id="AlSaeedah.eg">1:0:1:648:10:800:DCA0000:0:0:0:</channel>
+	<channel id="AlsharqiyaTV.ae">1:0:19:B03:1C:800:DCA0000:0:0:0:</channel>
+	<channel id="AlsharqiyaTV.ae">1:0:19:1:13:6E:DCA0000:0:0:0:</channel>
+	<channel id="AlsharqiyaTV.ae">1:0:1:716:12:800:DCA0000:0:0:0:</channel>
+	<channel id="AlsharqiyaTV.ae">1:0:19:B03:1C:800:DCA0000:0:0:0:</channel>
+	<channel id="Alsumaria.iq">1:0:1:CE9:21:800:DCA0000:0:0:0:</channel>
+	<channel id="Alsumaria.iq">1:0:19:F:1F7:2BE:1040000:0:0:0:</channel>
+	<channel id="Alsumaria.iq">1:0:1:5:9C7C:77E:DCA0000:0:0:0:</channel>
+	<channel id="AlYawm.ae">1:0:1:A8D:1:2A:DC00000:0:0:0:</channel>
+	<channel id="AmmanTV.jo">1:0:19:320:8:800:DCA0000:0:0:0:</channel>
+	<channel id="ARTHekayat.sa">1:0:1:2BF:7:800:DCA0000:0:0:0:</channel>
+	<channel id="ARTAflam1.sa">1:0:1:2C2:7:800:DCA0000:0:0:0:</channel>
+	<channel id="ARTAflam2.sa">1:0:1:2C4:7:800:DCA0000:0:0:0:</channel>
+	<channel id="ARTCinema.sa">1:0:1:2C5:7:800:DCA0000:0:0:0:</channel>
+	<channel id="ARTHekayat2.sa">1:0:1:2C1:7:800:DCA0000:0:0:0:</channel>
+	<channel id="BahrainTV">1:0:19:1B76:2BC:5000:DC00000:0:0:0:</channel>
+	<channel id="Bahrain">1:0:19:1B76:2BC:5000:DC00000:0:0:0:</channel>
+	<channel id="CBC.eg">1:0:1:13F4:33:800:DCA0000:0:0:0:</channel>
+	<channel id="CBC.eg">1:0:1:70B:12:800:DCA0000:0:0:0:</channel>
+	<channel id="CBCDrama.eg">1:0:1:70D:12:800:DCA0000:0:0:0:</channel>
+	<channel id="CBCSofra.eg">1:0:1:70C:12:800:DCA0000:0:0:0:</channel>
+	<channel id="Cima.eg">1:0:1:2BD:7:800:DCA0000:0:0:0:</channel>
+	<channel id="Cinema1.ae">1:0:1:A8F:1:2A:DC00000:0:0:0:</channel>
+	<channel id="Cinema2.ae">1:0:1:A90:1:2A:DC00000:0:0:0:</channel>
+	<channel id="DisneyChannelMiddleEast.us">1:0:19:119B:2D:800:DCA0000:0:0:0:</channel>
+	<channel id="DiscoveryChannelMiddleEastAfrica.us">1:0:19:1621:236:800:DCA0000:0:0:0:</channel>
+	<channel id="DMC.eg">1:0:19:1325:31
+:800:DCA0000:0:0:0:</channel>
+	<channel id="DMCDrama.eg">1:0:1:1329:31:800:DCA0000:0:0:0:</channel>
+	<channel id="DMCDrama.eg">1:0:1:1329:31:800:DCA0000:0:0:0:</channel>
+<channel id="DubaiTV.ae">1:0:19:1:d1c4:77e:DCA0000:0:0:0:</channel>
+	<channel id="DubaiOne.ae">1:0:19:126F:2F:800:DCA0000:0:0:0:</channel>
+	<channel id="DubaiOne.ae">1:0:1:126F:2F:800:DC00000:0:0:0:</channel>
+	<channel id="DubaiOne.ae">1:0:1:1268:2F:800:DCA0000:0:0:0:</channel>
+	<channel id="DubaiTV.ae">1:0:1:1266:2F:800:DCA0000:0:0:0:</channel>
+	<channel id="DubaiZaman.ae">1:0:1:126E:2F:800:DCA0000:0:0:0:</channel>
+	<channel id="DubaiZaman.ae">1:0:1:126E:2F:800:DC00000:0:0:0:</channel>
+	<channel id="E! Middle East">1:0:19:131:3:800:DCA0000:0:0:0:</channel>
+	<channel id="EmaratTV.ae">1:0:1:2:32:64:DCA0000:0:0:0:</channel>
+	<channel id="EmaratTV.ae">1:0:1:850:15:800:DCA0000:0:0:0:</channel>
+	<channel id="EmaratTV.ae">1:0:1:1787:18:6E:DCA0000:0:0:0:</channel>
+	<channel id="Fann.ae">1:0:1:A93:1:2A:DC00000:0:0:0:</channel>
+	<channel id="Fujairah">1:0:19:19D4:42:800:DCA0000:0:0:0:</channel>
+	<channel id="IFilmArabic.ir">1:0:1:12d:c23:6e:dca0000:0:0:0:</channel>
+	<channel id="IFilmArabic.ir">1:0:1:12D:C23:6E:DCA0000:0:0:0:</channel>
+	<channel id="IFilmArabic.ir">1:0:1:12D:C23:6E:DCA0000:0:0:0:</channel>
+	<channel id="JordanTV">1:0:1:70A:1FA:2BE:1040000:0:0:0:</channel>
+	<channel id="JordanTV">1:0:19:340:8:800:DCA0000:0:0:0:</channel>
+	<channel id="KTVKhallikBilbait.kw">1:0:19:456:7594:77E:DC00000:0:0:0:</channel>
+	<channel id="KuwaitTV.kw">1:0:1:1B94:2BC:5000:DCA0000:0:0:0:</channel>
+	<channel id="KuwaitTV.kw">1:0:1:322:3BC4:13E:820000:0:0:0:</channel>
+	<channel id="KuwaitTV.kw">1:0:19:44D:7594:77E:1040000:0:0:0:</channel>
+	<channel id="KuwaitTV.kw">1:0:19:44D:7594:77E:DCA0000:0:0:0:</channel>
+	<channel id="KuwaitTV.kw">1:0:19:44D:7594:77E:DC00000:0:0:0:</channel>
+	<channel id="LanaTV.lb">1:0:1:139:C9:800:DCA0000:0:0:0:</channel>
+	<channel id="LanaTV.lb">1:0:1:D0D:21:800:DCA0000:0:0:0:</channel>
+	<channel id="LanaTV.lb">1:0:19:D0E:21:800:DCA0000:0:0:0:</channel>
+	<channel id="LanaTV.lb">1:0:1:9:9C68:77E:DCA0000:0:0:0:</channel>
+	<channel id="LanaPlusTV">1:0:1:83A:15:800:DCA0000:0:0:0:</channel>
+	<channel id="LanaPlusTV">1:0:1:B:9C7C:77E:DCA0000:0:0:0:</channel>
+	<channel id="Lana_PlusTV">1:0:1:B:9C7C:77E:DCA0000:0:0:0:</channel>
+	<channel id="LBCInternational.lb">1:0:1:83C:15:800:DCA0000:0:0:0:</channel>
+	<channel id="LBCInternational.lb">1:0:1:133:51:800:1040000:0:0:0:</channel>
+	<channel id="LBCInternational.lb">1:0:1:15EA:38:800:DCA0000:0:0:0:</channel>
+	<channel id="LBCInternational.lb">1:0:1:3:2648:2BE:1040000:0:0:0:</channel>
+	<channel id="LBCInternational.lb">1:0:19:133:51:2BE:1040000:0:0:0:</channel>
+	<channel id="LBCInternational.lb">1:0:19:17:1:2BE:1040000:0:0:0:</channel>
+	<channel id="LBCInternational.lb">1:0:1:15EA:38:800:DCA0000:0:0:0:</channel>
+	<channel id="LBCInternational.lb">1:0:1:83C:15:800:DCA0000:0:0:0:</channel>
+	<channel id="MasperoZaman.eg">1:0:1:267:6:800:DCA0000:0:0:0:</channel>
+	<channel id="MasperoZaman.eg">1:0:1:267:6:800:DCA0000:0:0:0:</channel>
+	<channel id="MBCDrama.ae">1:0:1:6:3B:800:DC00000:0:0:0:</channel>
+	<channel id="MBC4.ae">1:0:1:5:3B:800:DC00000:0:0:0:</channel>
+	<channel id="MBC_EG_2">1:0:1:452:B:800:DCA0000:0:0:0:</channel>
+	<channel id="MBCMaser.ae">1:0:1:14:3B:800:DC00000:0:0:0:</channel>
+	<channel id="MBC3.ae">1:0:1:b:3b:800:DC00000:0:0:0:</channel>
+	<channel id="MBC.ae">1:0:1:4:3B:800:DC00000:0:0:0:</channel>
+	<channel id="MBCBollywood.ae">1:0:1:8:3B:800:DC00000:0:0:0:</channel>
+	<channel id="MBCAction.ae">1:0:1:A:3B:800:DC00000:0:0:0:</channel>
+	<channel id="MBC2.ae">1:0:1:9:3B:800:DC00000:0:0:0:</channel>
+	<channel id="MBC2.ae">1:0:1:1:9c68:77e:DCa0000:0:0:0:</channel>
+	<channel id="MBC_IRAQ">1:0:1:2:9C7C:77E:DCA0000:0:0:0:</channel>
+	<channel id="MBC_IRAQ">1:0:19:2:9C7C:77E:DCA0000:0:0:0:</channel>
+	<channel id="MBC_IRAQ">1:0:1:3:9C7C:77E:DCA0000:0:0:0:</channel>
+	<channel id="ElMehwarChannel.eg">1:0:1:457:B:800:DCA0000:0:0:0:</channel>
+	<channel id="ElMehwarChannel.eg">1:0:1:1C8C:49:800:DCA0000:0:0:0:</channel>
+	<channel id="ElMehwarChannel.eg">1:0:1:1C8C:49:800:DC00000:0:0:0:</channel>
+	<channel id="Mix">1:0:1:13F7:33:800:DCA0000:0:0:0:</channel>
+	<channel id="MixHollywood.eg">1:0:1:711:12:800:DCA0000:0:0:0:</channel>
+	<channel id="MixBelAraby.eg">1:0:1:AFC:1C:800:DCA0000:0:0:0:</channel>
+	<channel id="MTVLebnon">1:0:19:15:1:2BE:1040000:0:0:0:</channel>
+	<channel id="Moslsalat">1:0:19:A92:1:2A:DC00000:0:0:0:</channel>
+	<channel id="Moslsalat_2">1:0:19:A91:1:2A:DC00000:0:0:0:</channel>
+	<channel id="Musawa.ps">1:0:19:492:3B6:5000:DC00000:0:0:0:</channel>
+	<channel id="Musawa.ps">1:0:1:BA4:384:5000:DC00000:0:0:0:</channel>
+	<channel id="Musawa.ps">1:0:19:492:3B6:5000:DC00000:0:0:0:</channel>
+	<channel id="Nessma">1:0:1:C8D:20:800:DCA0000:0:0:0:</channel>
+	<channel id="NileCinema.eg">1:0:1:266:6:800:DCA0000:0:0:0:</channel>
+	<channel id="NileComedy.eg">1:0:1:25C:6:800:DCA0000:0:0:0:</channel>
+	<channel id="NileDrama.eg">1:0:1:25E:6:800:DCA0000:0:0:0:</channel>
+	<channel id="NileLife.eg">1:0:1:25D:6:800:DCA0000:0:0:0:</channel>
+	<channel id="OnDrama.eg">1:0:1:164C:39:800:DCA0000:0:0:0:</channel>
+	<channel id="OnDrama.eg">1:0:1:D0:2:800:DCA0000:0:0:0:</channel>
+	<channel id="OnE.eg">1:0:19:CA:2:800:DCA0000:0:0:0:</channel>
+	<channel id="OnE.eg">1:0:19:ca:2:800:DCA0000:0:0:0:</channel>
+	<channel id="OSNMovies.ae">1:0:19:1197:2D:800:DCA0000:0:0:0:</channel>
+	<channel id="OSNAction.ae">1:0:19:12E:3:800:DCA0000:0:0:0:</channel>
+	<channel id="OSNMoviesFirstPlus2.ae">1:0:19:1625:236:800:DCA0000:0:0:0:</channel>
+	<channel id="OSNMoviesFirst.ae">1:0:19:12D:3:800:DCA0000:0:0:0:</channel>
+	<channel id="OSNSeriesFirst.ae">1:0:19:130:3:800:DCA0000:0:0:0:</channel>
+	<channel id="OSNSeries.ae">1:0:19:3eb:a:800:DCa0000:0:0:0:</channel>
+	<channel id="OSNEnigma.ae">1:0:19:1198:2D:800:DCA0000:0:0:0:</channel>
+	<channel id="OSNComedy.ae">1:0:19:119C:2D:800:DCA0000:0:0:0:</channel>
+	<channel id="OSNKids.ae">1:0:19:119A:2D:800:DCA0000:0:0:0:</channel>
+	<channel id="OSNYaHalaAlOula.ae">1:0:19:119D:2D:800:DCA0000:0:0:0:</channel>
+	<channel id="OSNYaHala.ae">1:0:19:135:3:800:DCA0000:0:0:0:</channel>
+	<channel id="OSNYaHalaCinema.ae">1:0:19:132:3:800:DCA0000:0:0:0:</channel>
+	<channel id="Utv">1:0:1:3EA:320:800:DCA0000:0:0:0:</channel>
+	<channel id="UTV.iq">1:0:1:3EA:320:800:DCA0000:0:0:0:</channel>
+	<channel id="RotanaClassic.sa">1:0:1:15E5:38:800:DCA0000:0:0:0:</channel>
+	<channel id="RotanaClassic.sa">1:0:1:838:15:800:DCA0000:0:0:0:</channel>
+	<channel id="RotanaDrama.sa">1:0:1:15E6:38:800:DCA0000:0:0:0:</channel>
+	<channel id="RotanaDrama.sa">1:0:1:839:15:800:DCA0000:0:0:0:</channel>
+	<channel id="RotanaKhalijia.sa">1:0:1:15E4:38:800:DCA0000:0:0:0:</channel>
+	<channel id="RotanaKhalijia.sa">1:0:1:837:15:800:DCA0000:0:0:0:</channel>
+	<channel id="RotanaCinemaEGY.sa">1:0:1:15E7:38:800:DCA0000:0:0:0:</channel>
+	<channel id="RotanaCinemaEGY.sa">1:0:1:83A:15:800:DCA0000:0:0:0:</channel>
+	<channel id="RotanaCinemaEGY.ss">1:0:19:83e:15:800:DCA0000:0:0:0:</channel>
+	<channel id="RotanaCinemaKSA.sa">1:0:1:15E9:38:800:DCA0000:0:0:0:</channel>
+	<channel id="RotanaCinemaKSA.sa">1:0:1:83B:15:800:DCA0000:0:0:0:</channel>
+	<channel id="Roya">1:0:1:100A:29:800:DCA0000:0:0:0:</channel>
+	<channel id="Roya">1:0:19:71B:1FA:2BE:1040000:0:0:0:</channel>
+	<channel id="SadaElbalad.eg">1:0:1:45A:B:800:DCA0000:0:0:0:</channel>
+	<channel id="SadaElbalad2.eg">1:0:1:45B:B:800:DCA0000:0:0:0:</channel>
+	<channel id="SadaElbalad2.eg">1:0:1:17DB:3D:800:DCA0000:0:0:0:</channel>
+	<channel id="Sada_ElBalad_Drama">1:0:1:459:B:800:DCA0000:0:0:0:</channel>
+	<channel id="SadaElbalad.eg">1:0:1:45A:B:800:DCA0000:0:0:0:</channel>
+	<channel id="SadaElbaladDrama.eg">1:0:1:190A:40:800:DCA0000:0:0:0:</channel>
+	<channel id="SadaElbaladDrama.eg">1:0:1:459:B:800:DCA0000:0:0:0:</channel>
+	<channel id="Salam">1:0:1:6AE:FFDC:77E:DCa0000:0:0:0:</channel>
+	<channel id="Salam">1:0:1:6AE:FFDC:77E:dbf0000:0:0:0:</channel>
+	<channel id="SalamTV">1:0:1:6AE:FFDC:77E:Dc00000:0:0:0:</channel>
+	<channel id="SamaDubai.ae">1:0:1:1267:2F:800:DC00000:0:0:0:</channel>
+	<channel id="SamaDubai.ae">1:0:1:1267:2F:800:DC00000:0:0:0:</channel>
+	<channel id="SamaDubai.ae">1:0:1:1267:2f:800:dc00000:0:0:0:</channel>
+	<channel id="SamaDubai.ae">1:0:19:19D2:42:800:DCA0000:0:0:0:</channel>
+	<channel id="SamaDubai.ae">1:0:19:19D2:42:800:DCA0000:0:0:0:</channel>
+	<channel id="SamaTV.sy">1:0:1:bob:1c:800:DCA0000:0:0:0:</channel>
+	<channel id="Saudiya_TV">1:0:1:A29:1A:800:DCA0000:0:0:0:</channel>
+	<channel id="SBC.sa">1:0:1:15E3:1A:800:DCA0000:0:0:0:</channel>
+	<channel id="SBC.sa">1:0:1:15E3:1A:2BE:DCA0000:0:0:0:</channel>
+	<channel id="SharjahTV.ae">1:0:1:2:208:2BE:DC00000:0:0:0:</channel>
+	<channel id="SharjahTV.ae">1:0:19:1:208:2BE:DC00000:0:0:0:</channel>
+	<channel id="SharjahSports.ae">1:0:19:6:208:2BE:DC00000:0:0:0:</channel>
+	<channel id="SharjahTV.ae">1:0:19:1:208:2BE:DCA0000:0:0:0:</channel>
+	<channel id="SharjahTV.ae">1:0:1:2:208:2BE:DC00000:0:0:0:</channel>
+	<channel id="SharjahTV.ae">1:0:19:1:208:2BE:DC00000:0:0:0:</channel>
+	<channel id="SaudiTV.sa">1:0:1:A29:1A:2BE:DCA0000:0:0:0:</channel>
+	<channel id="StarMoviesMiddleEast.hk">1:0:19:3EF:A:800:DCA0000:0:0:0:</channel>
+	<channel id="StarWorldMiddleEast.hk">1:0:19:3F0:A:800:DCA0000:0:0:0:</channel>
+	<channel id="SyriaTV.tr">1:0:1:1CF1:4A:800:DC00000:0:0:0:</channel>
+	<channel id="SyriaDrama.sy">1:0:1:B07:1C:800:DCA0000:0:0:0:</channel>
+	<channel id="SyriaTV.tr">1:0:1:19A:10:6E:DCA0000:0:0:0:</channel>
+	<channel id="SyriaDrama.sy">1:0:1:1CF2:4A:800:DC00000:0:0:0:</channel>
+	<channel id="SyriaDrama.sy">1:0:1:49:1F:6E:DCA0000:0:0:0:</channel>
+	<channel id="SyriaTV.tr">1:0:19:5016:802:E0:1040000:0:0:0:</channel>
+	<channel id="Ten.eg">1:0:1:259:6:800:DCA0000:0:0:0:</channel>
+	<channel id="Watania1">1:0:1:1C22:1C20:13E:820000:0:0:0:</channel>
+	<channel id="Watania1">1:0:1:64C:10:800:DCA0000:0:0:0:</channel>
+	<channel id="Watania1">1:0:1:B:1137:2BE:1040000:0:0:0:</channel>
+	<channel id="Watania1">1:0:1:E11:24:800:DCA0000:0:0:0:</channel>
+	<channel id="Watania1">1:0:19:44C:1137:2BE:1040000:0:0:0:</channel>
+	<channel id="Watania1">1:0:19:1F47:12:6E:DCA0000:0:0:0:</channel>
+	<channel id="Watania2">1:0:1:64D:10:800:DCA0000:0:0:0:</channel>
+	<channel id="Watania2">1:0:1:C:1137:2BE:1040000:0:0:0:</channel>
+	<channel id="Watania2">1:0:1:FAD:28:800:DCA0000:0:0:0:</channel>
+	<channel id="Watania2">1:0:1:64A:10:800:DCA0000:0:0:0:</channel>
+	<channel id="ThikrayatTV.sa">1:0:1:A2A:1A:2BE:1040000:0:0:0:</channel>
+	<channel id="ThikrayatTV.sa">1:0:1:A2D:1A:800:DCA0000:0:0:0:</channel>
+	<channel id="ThikrayatTV.sa">1:0:1:A2A:1A:2BE:DCA0000:0:0:0:</channel>
+	<channel id="ThikrayatTV.sa">1:0:1:A2A:1A:2BE:DCA0000:0:0:0:</channel>
+	<channel id="Zee_alwan">1:0:1:6:9C68:77E:DCA0000:0:0:0:</channel>
+	<channel id="AlAanTV.ae">1:0:19:4:9C68:77E:DCA0000:0:0:0:</channel>
+	<channel id="AlhurraTV.us">1:0:1:1b9:10:6E:DCA0000:0:0:0:</channel>
+	<channel id="AlMajlisTV.kw">1:0:19:453:7594:77e:DC00000:0:0:0:</channel>
+	<channel id="AlQurainTV.kw">1:0:19:454:7594:77e:DC00000:0:0:0:</channel>
+	<channel id="KTV2.kw">1:0:19:44e:7594:77e:DC00000:0:0:0:</channel>
+	<channel id="KTVArabe.kw">1:0:19:452:7594:77e:DC00000:0:0:0:</channel>
+	<channel id="KTVEthraa.kw">1:0:19:451:7594:77e:DC00000:0:0:0:</channel>
+	<channel id="KTVSport.kw">1:0:19:44f:7594:77e:DC00000:0:0:0:</channel>
+	<channel id="KTVSportPlus.kw">1:0:19:450:7594:77e:DC00000:0:0:0:</channel>
+	<channel id="B4UAflam.in">1:0:1:7:9c68:77e:DCa0000:0:0:0:</channel>
+	<channel id="B4UPlus.in">1:0:1:8:9c68:77e:DCa0000:0:0:0:</channel>
+	<channel id="BahrainTV.bh">1:0:19:1b76:2bc:5000:DC00000:0:0:0:</channel>
+	<channel id="BBCWorldNewsMiddleEast.uk">1:0:1:20a:5:800:DCa0000:0:0:0:</channel>
+	<channel id="CGTN.cn">1:0:1:516:d:800:DCa0000:0:0:0:</channel>
+	<channel id="CGTNArabic.cn">1:0:1:51e:d:800:DCa0000:0:0:0:</channel>
+	<channel id="DubaiRacing.ae">1:0:19:19cc:42:800:DCa0000:0:0:0:</channel>
+	<channel id="DubaiRacing3.ae">1:0:1:126c:2f:800:DC00000:0:0:0:</channel>
+	<channel id="France24Arabic.fr">1:0:1:c86:20:800:DCa0000:0:0:0:</channel>
+	<channel id="France24English.fr">1:0:19:7d3:14:800:DCa0000:0:0:0:</channel>
+	<channel id="AlWoustaTV.ae">1:0:19:5:208:2be:DC00000:0:0:0:</channel>
+	<channel id="AlMamlakaTV.jo">1:0:19:345:8:800:DCa0000:0:0:0:</channel>
+	<channel id="Alarabiya.ae">1:0:19:2:3C:800:DCA0000:0:0:0</channel>
+	<channel id="AljazeeraChannel.qa">1:0:19:1F5:EAC4:77E:DC00000:0:0:0:</channel>
+	<channel id="AlMasriyah.eg">1:0:1:89C:16:800:DCA0000:0:0:0:</channel>
+	<channel id="RTNews.ru">1:0:1:636:ffdc:77e:dbf0000:0:0:0:</channel>
+	<channel id="KurdistanTV.iq">1:0:1:45b:c3b4:77e:dbf0000:0:0:0:</channel>
+	<channel id="AljazeeraEnglish.qa">1:0:19:1f7:eac4:77e:dc00000:0:0:0:</channel>
+	<channel id="Watania1.tn">1:0:19:1f47:12:6e:dca0000:0:0:0:</channel>
+</channels>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

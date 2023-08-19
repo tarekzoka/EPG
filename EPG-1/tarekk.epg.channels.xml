@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+	<channel id="beIN 1 PREM">1:0:19:7D1:64:77E:DC00000:0:0:0</channel>
+	<channel id="beIN 2 PREM">1:0:19:7D2:64:77E:DC00000:0:0:0</channel>
+	<channel id="beIN 3 PREM">1:0:19:838:C8:77E:DC00000:0:0:0</channel>
+	<channel id="beIN 1HD">1:0:19:7D3:64:77E:DC00000:0:0:0</channel>
+	<channel id="beIN 2HD">1:0:19:836:C8:77E:DC00000:0:0:0</channel>
+	<channel id="beIN 3HD">1:0:19:7D4:64:77E:DC00000:0:0:0</channel>
+	<channel id="beIN 4HD">1:0:19:835:C8:77E:DC00000:0:0:0</channel>
+	<channel id="beIN 5HD">1:0:19:839:C8:77E:DC00000:0:0:0</channel>
+	<channel id="beIN 6HD">1:0:19:837:C8:77E:DC00000:0:0:0</channel>
+	<channel id="beIN 7HD">1:0:19:899:12C:77E:DC00000:0:0:0</channel>
+	<channel id="beIN Sports News">1:0:19:89A:12C:77E:DC00000:0:0:0</channel>
+	<channel id="beIN Sports">1:0:19:83A:C8:77E:DC00000:0:0:0</channel>
+	<channel id="XTRA 1">1:0:19:89D:12C:77E:DC00000:0:0:0</channel>
+	<channel id="XTRA 2">1:0:19:89E:12C:77E:DC00000:0:0:0</channel>
+	<channel id="beIN SPORTS MAX 1">1:0:19:89B:12C:77E:DC00000:0:0:0</channel>
+	<channel id="beIN SPORTS MAX 2">1:0:19:7D6:64:77E:DC00000:0:0:0</channel>
+	<channel id="beIN SPORTS MAX 3">1:0:19:7D5:64:77E:DC00000:0:0:0</channel>
+	<channel id="beIN SPORTS MAX 4">1:0:19:89C:12C:77E:DC00000:0:0:0</channel>
+	<channel id="beIN SPORTS MAX 5">1:0:19:89F:12C:77E:DC00000:0:0:0</channel>
+	<channel id="beIN SPORTS MAX 6">1:0:19:8A0:12C:77E:DC00000:0:0:0</channel>
+	<channel id="beIN_SPORTS1_PREMIUM">1:0:19:7D1:64:77E:DC00000:0:0:0</channel>
+	<channel id="beIN_SPORTS2_PREMIUM">1:0:19:7D2:64:77E:DC00000:0:0:0</channel>
+	<channel id="beIN_SPORTS3_PREMIUM">1:0:19:838:C8:77E:DC00000:0:0:0</channel>
+	<channel id="beIN_SPORTS1">1:0:19:7D3:64:77E:DC00000:0:0:0</channel>
+	<channel id="beIN_SPORTS2">1:0:19:836:C8:77E:DC00000:0:0:0</channel>
+	<channel id="beIN_SPORTS3">1:0:19:7D4:64:77E:DC00000:0:0:0</channel>
+	<channel id="beIN_SPORTS4">1:0:19:835:C8:77E:DC00000:0:0:0</channel>
+	<channel id="beIN_SPORTS5">1:0:19:839:C8:77E:DC00000:0:0:0</channel>
+	<channel id="SPORTS_6-1">1:0:19:837:C8:77E:DC00000:0:0:0</channel>
+	<channel id="beIN_SPORTS7">1:0:19:899:12C:77E:DC00000:0:0:0</channel>
+	<channel id="NEWS">1:0:19:89A:12C:77E:DC00000:0:0:0</channel>
+	<channel id="bein_SPORTS_FTA">1:0:19:83A:C8:77E:DC00000:0:0:0</channel>
+	<channel id="beIN_SPORTS_MAX1">1:0:19:89B:12C:77E:DC00000:0:0:0</channel>
+	<channel id="beIN_SPORTS_MAX2">1:0:19:7D6:64:77E:DC00000:0:0:0</channel>
+	<channel id="beIN_SPORTS_MAX3">1:0:19:7D5:64:77E:DC00000:0:0:0</channel>
+	<channel id="beIN_SPORTS_MAX4">1:0:19:89C:12C:77E:DC00000:0:0:0</channel>
+	<channel id="NEW_beIN-SPORTS-MAX-05">1:0:19:89F:12C:77E:DC00000:0:0:0</channel>
+	<channel id="NEW_beIN-SPORTS-MAX-06">1:0:19:8A0:12C:77E:DC00000:0:0:0</channel>
+	<channel id="BeInSportsPremium1.qa">1:0:19:7D1:64:77E:DC00000:0:0:0</channel>
+	<channel id="BeInSportsPremium2.qa">1:0:19:7D2:64:77E:DC00000:0:0:0</channel>
+	<channel id="BeInSportsPremium3.qa">1:0:19:838:C8:77E:DC00000:0:0:0</channel>
+	<channel id="BeInSports1.qa">1:0:19:7D3:64:77E:DC00000:0:0:0</channel>
+	<channel id="BeInSports2.qa">1:0:19:836:C8:77E:DC00000:0:0:0</channel>
+	<channel id="BeInSports3.qa">1:0:19:7D4:64:77E:DC00000:0:0:0</channel>
+	<channel id="BeInSports4.qa">1:0:19:835:C8:77E:DC00000:0:0:0</channel>
+	<channel id="BeInSports5.qa">1:0:19:839:C8:77E:DC00000:0:0:0</channel>
+	<channel id="BeInSports6.qa">1:0:19:837:C8:77E:DC00000:0:0:0</channel>
+	<channel id="BeInSports7.qa">1:0:19:899:12C:77E:DC00000:0:0:0</channel>
+	<channel id="BeInSportsNews.qa">1:0:19:89A:12C:77E:DC00000:0:0:0</channel>
+	<channel id="BeInSports.qa">1:0:19:83A:C8:77E:DC00000:0:0:0</channel>
+	<channel id="BeInSportsXtra1.qa">1:0:19:89D:12C:77E:DC00000:0:0:0</channel>
+	<channel id="BeInSportsXtra2.qa">1:0:19:89E:12C:77E:DC00000:0:0:0</channel>
+	<channel id="beIN SPORTS MAX 1">1:0:19:89B:12C:77E:DC00000:0:0:0:</channel>
+	<channel id="beIN SPORTS MAX 2">1:0:19:7D6:64:77E:DC00000:0:0:0:</channel>
+	<channel id="beIN SPORTS MAX 3">1:0:19:7D5:64:77E:DC00000:0:0:0:</channel>
+	<channel id="beIN SPORTS MAX 4">1:0:19:89C:12C:77E:DC00000:0:0:0:</channel>
+	<channel id="beIN SPORTS MAX 5">1:0:19:89F:12C:77E:DC00000:0:0:0:</channel>
+	<channel id="beIN SPORTS MAX 6">1:0:19:8A0:12C:77E:DC00000:0:0:0:</channel>
+</channels>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

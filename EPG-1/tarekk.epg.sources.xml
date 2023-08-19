@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sources>
+<sourcecat sourcecatname="tarekk EPG">
+<source type="gen_xmltv" nocheck="1" channels="tarekk3.epg.channels.xml">
+<description>tarekk1</description>
+<url><![CDATA[http://raw.githubusercontent.com/epgshare01/share01/master/epg_ripper_BEIN1.xml.gz]]></url>
+</source>
+<source type="gen_xmltv" nocheck="1" channels="tarekk7.epg.channels.xml">
+<description>tarekk2</description>
+<url><![CDATA[https://iptv-org.github.io/epg/guides/eg-ar/elcinema.com.epg.xml]]></url>
+</source>
+<source type="gen_xmltv" nocheck="1" channels="tarekk7.epg.channels.xml">
+<description>tarekk3</description>
+<url><![CDATA[https://iptv-org.github.io/epg/guides/eg-en/osn.com.epg.xml]]></url>
+</source>
+<source type="gen_xmltv" nocheck="1" channels="tarekk4.epg.channels.xml">
+<description>tarekk4</description>
+<url><![CDATA[https://raw.githubusercontent.com/MOHAMED19OS/XMLTV/main/jawwytv.xml]]></url>
+</source>
+<source type="gen_xmltv" nocheck="1" channels="tarekk2.epg.channels.xml">
+<description>tarekk5</description>
+<url><![CDATA[https://iptv-org.github.io/epg/guides/eg-ar/elcinema.com.epg.xml]]></url>
+</source>
+<source type="gen_xmltv" nocheck="1" channels="tarekk.epg.channels.xml">
+<description>tarekk6</description>
+<url><![CDATA[https://iptv-org.github.io/epg/guides/qa/beinsports.com.epg.xml]]></url>
+</source>
+<source type="gen_xmltv" nocheck="1" channels="tarekk6.epg.channels.xml">
+<description>tarekk7</description>
+<url><![CDATA[https://raw.githubusercontent.com/MOHAMED19OS/XMLTV/main/osn.xml]]></url>
+</source>
+<source type="gen_xmltv" nocheck="1" channels="tarekk6.epg.channels.xml">
+<description>tarekk8</description>
+<url><![CDATA[https://iptv-org.github.io/epg/guides/eg-en/osn.com.epg.xml]]></url>
+</source>
+<source type="gen_xmltv" nocheck="1" channels="tarekk7.epg.channels.xml">
+<description>tarekk9</description>
+<url><![CDATA[https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml]]></url>
+</source>
+</sourcecat>
+</sources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
