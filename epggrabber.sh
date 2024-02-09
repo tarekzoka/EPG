@@ -11,7 +11,7 @@ opkg remove enigma2-plugin-extensions-epggrabber
 
 echo "*******************************************"
 echo "*             Removed Finished            *"
-echo "*            Uploaded By Eliesat          *"
+echo "*            Uploaded By TAREK_HANFY          *"
 echo "*******************************************"
 sleep 3s
 
@@ -79,9 +79,9 @@ done
 echo "> Downloading $package-$version Package  Please Wait ..."
 sleep 3s
 
-wget -O /var/volatile/tmp/Epg-plugin-master.tar.gz --no-check-certificate "https://gitlab.com/eliesat/extensions/-/raw/main/epggrabber/Epg-plugin-master.tar.gz"
+wget -O /tmp/Epg-plugin-master.tar.gz "https://raw.githubusercontent.com/tarekzoka/EPG/main/Epg-plugin-master.tar.gz"
 
-wget -O /var/volatile/tmp/Epg-ch-id.tar.gz --no-check-certificate "https://gitlab.com/eliesat/extensions/-/raw/main/epggrabber/Epg-ch-id.tar.gz"
+wget -O /tmp/Epg-ch-id.tar.gz "https://raw.githubusercontent.com/tarekzoka/EPG/main/Epg-ch-id.tar.gz"
 
 echo "> Installing $package-$version Package  Please Wait ..."
 sleep 3s
